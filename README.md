@@ -56,7 +56,7 @@
 
 ## 🚀 Backend Link <a name="backend-link"></a>
 
-- [Live Demo Link](https://github.com/CaptainBawa/Hello-Rails-Back-End)
+- [Back-End-Link](https://github.com/CaptainBawa/Hello-Rails-Back-End)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
